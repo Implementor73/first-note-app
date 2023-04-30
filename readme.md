@@ -1,1 +1,1 @@
-my first application is notesgit git 
+my first application is notes
